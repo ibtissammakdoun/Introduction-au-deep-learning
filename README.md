@@ -1,2 +1,2 @@
 # Introduction-au-deep-learning
-Ce répertoire contient des exemples et des codes pour introduire le deep learning au débutant
+Ce répertoire contient des exemples et des codes pour introduire le deep learning aux débutants
